@@ -34,6 +34,21 @@
     box-shadow 0.3s ease-out;
   cursor: pointer;
 }
+main {
+  background-image: url("./assets/img/bg2.svg");
+}
+.bg__home {
+  background-image: url("/src/assets/img/bg.jpg");
+}
+.category:first-child {
+  background-image: url("./assets/img/esculturas.jpg");
+}
+.bg__obras {
+  background-image: url("./assets/img/obras.jpg");
+}
+.bg__deco {
+  background-image: url("./assets/img/deco.jpg");
+}
 .animation__show {
   view-timeline-name: --image;
   view-timeline-axis: block;

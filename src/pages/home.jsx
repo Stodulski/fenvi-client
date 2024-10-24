@@ -6,7 +6,7 @@ import { Footer } from "../components/footer";
 
 export const Home = () => {
   return (
-    <main className="bg-black bg-[url('bg2.svg')] bg-cover bg-center">
+    <main className="bg-black bg-cover bg-center">
       <Inicio />
       <Nosotros />
       <Categorias />
